@@ -1,5 +1,7 @@
 ## Olá pessoal 👋
 
+O que se deve encontar aqui:
+
 - 💻 Exemplos de projetos usando, principalmente, Java/Spring
 - 📃 Também tendo exemplos sobre Bancos de Dados e ORM
 
