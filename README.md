@@ -6,7 +6,7 @@
 ### DEVAPP
 
 Agrupamento de programas de auxílio ao desenvolvimento de sistemas em geral
-> Download em [DEVAPP-Romulo](https://drive.google.com/drive/folders/1n9fVrUzKIkmdhXSriFfTRCwdfLvvKQEG?usp=sharing)
+> Download em [DEVAPP-Romulo](https://drive.google.com/drive/folders/1n9fVrUzKIkmdhXSriFfTRCwdfLvvKQEG?usp=sharing){:target="_blank" rel="noopener"}
 
 <!--
 **rfdouro/rfdouro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
