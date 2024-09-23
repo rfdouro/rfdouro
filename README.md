@@ -1,7 +1,7 @@
 ## Olá pessoal 👋
 
-- 🔭 Atualmente estou trabalhando com Java/Spring
-- 🌱 Também lendo sobre Bancos de Dados e ORM
+- 💻 Exemplos de projetos usando, principalmente, Java/Spring
+- 📃 Também tendo exemplos sobre Bancos de Dados e ORM
 
 <!--
 **rfdouro/rfdouro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
