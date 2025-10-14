@@ -5,6 +5,10 @@ O que se deve encontar aqui:
 - 💻 Exemplos de projetos usando, principalmente, Java/Spring
 - 📃 Também tendo exemplos sobre Bancos de Dados e ORM
 
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rfdouro&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=true&order=2" height="150" alt="languages graph"  />
+</div>
+
 ### DEVAPP
 
 Agrupamento de programas de auxílio ao desenvolvimento de sistemas em geral
