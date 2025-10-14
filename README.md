@@ -11,7 +11,7 @@ O que se deve encontar aqui:
 
 ### 🛠 Tecnologias e Ferramentas
 
-[![My Skills](https://skillicons.dev/icons?i=js,java,vscode&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,css,html,java,vscode&theme=light)](https://skillicons.dev)
 
 ### DEVAPP
 
