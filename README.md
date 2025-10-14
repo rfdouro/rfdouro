@@ -9,6 +9,10 @@ O que se deve encontar aqui:
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rfdouro&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=true&order=2" height="150" alt="languages graph"  />
 </div>
 
+### 🛠 Tecnologias e Ferramentas
+
+[![My Skills](https://skillicons.dev/icons?i=js,java&theme=dark)](https://skillicons.dev)
+
 ### DEVAPP
 
 Agrupamento de programas de auxílio ao desenvolvimento de sistemas em geral
