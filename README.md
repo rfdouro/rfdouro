@@ -11,7 +11,7 @@ O que se deve encontar aqui:
 
 ### 🛠 Tecnologias e Ferramentas
 
-[![My Skills](https://skillicons.dev/icons?i=js,vue,vuetify,nodejs,bootstrap,html,java,spring,hibernate,flutter,postgres,vscode&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,vue,vuetify,nodejs,bootstrap,html,java,spring,hibernate,postgres,flutter,vscode&theme=light)](https://skillicons.dev)
 
 ### DEVAPP
 
